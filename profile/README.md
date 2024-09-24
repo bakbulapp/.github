@@ -47,4 +47,4 @@ bakbul-backend-team/
 
 ## 📬 Contact
 For any inquiries or support, feel free to reach out to us:
-- **Muhammet Yılmaz:** [LinkedIn](https://linkedin.com/in/muhammet-yimaz-anka)
+- **Muhammet Yılmaz:** [LinkedIn](https://www.linkedin.com/in/muhammet-yilmaz-anka/)
